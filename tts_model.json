@@ -1,0 +1,10 @@
+[
+  {
+    "language": "en",
+    "url": "https://github.com/ducnguyenhoai/sherpa-onnx-model/raw/main/en.tar.gz"
+  },
+  {
+    "language": "vi",
+    "url": "https://github.com/ducnguyenhoai/sherpa-onnx-model/raw/main/vi.tar.gz"
+  }
+]
